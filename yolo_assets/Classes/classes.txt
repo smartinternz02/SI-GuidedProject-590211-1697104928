@@ -1,0 +1,33 @@
+ Battery
+ Button
+ Buzzer
+ Capacitor
+ Capacitor Jumper
+ Clock
+ Connector
+ Diode
+ Display
+ EM
+ Electrolytic Capacitor
+ Ferrite Bead
+ Fuse
+ Heatsink
+ IC
+ Inductor
+ Jumper
+ Led
+ PS
+ Pads
+ Pins
+ Potentiometer
+ Resistor
+ Resistor Jumper
+ Resistor Network
+ SK
+ Switch
+ Test Point
+ Transformer
+Transistor
+Unknown Unlabeled
+Zener Diode
+iC
